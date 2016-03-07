@@ -1,0 +1,24 @@
+{
+
+  "beers": [{
+      "name": "Lagunitas",
+      "type": "IPA",
+      "rating": "7"
+  },
+  {
+      "name": "Grapefruit Sculpin",
+      "type": "IPA",
+      "rating": "9"
+  },
+  {
+      "name": "Deschutes Black Butte",
+      "type": "Porter",
+      "rating": "8"
+  },
+  {
+      "name": "Natural Light",
+      "type": "Light Beer",
+      "rating": "4"
+  }
+
+}
